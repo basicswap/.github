@@ -25,12 +25,6 @@ BasicSwap DEX (BSX) is the world's most secure and decentralized exchange, facil
 
 [Learn more about BasicSwap DEX](https://basicswapdex.com/terms)
 
-## Other Projects
-
-While BasicSwap DEX is the primary focus of this community, new ways to push the cryptocurrency ecosystem forward is constantly being explored by its contributors, notably with research of new, better protocols relating to cryptocurrency swaps, privacy, or security. 
-
-Follow us on [X (formerly Twitter)](https://x.com/basicswapdex) to stay up-to-date with all developments and news surrounding the project!
-
 ## Supported Assets
 
 The BasicSwap DEX protocol currently supports the following digital assets: 
@@ -62,9 +56,15 @@ If you are a developer, designer, or blockchain enthusiast and you want to join 
 - [BasicSwap Documentation](https://github.com/basicswap/basicswap/tree/master/doc)
 - [YouTube Channel](https://www.youtube.com/c/Particl) - Video tutorials and updates
 
-## Contact Us
+## Contact Information
 
 For support or inquiries, get in touch with the community in the contributor [Matrix chat](https://matrix.to/#/#basicswap:matrix.org).
+
+## Other Projects
+
+While BasicSwap DEX is the primary focus of this community, new ways to push the cryptocurrency ecosystem forward is constantly being explored by its contributors, notably with research of new, better protocols relating to cryptocurrency swaps, privacy, or security. 
+
+Follow us on [X (formerly Twitter)](https://x.com/basicswapdex) to stay up-to-date with all developments and news surrounding the project!
 
 ## Terms of Use
 
