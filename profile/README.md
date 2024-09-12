@@ -60,15 +60,15 @@ If you are a developer, designer, or blockchain enthusiast and you want to join 
 
 For support or inquiries, get in touch with the community in the contributors [Matrix chat](https://matrix.to/#/#basicswap:matrix.org).
 
+## Terms of Use
+
+By using BasicSwap DEX, you agree to the terms of use outlined in our [Terms of Use](https://basicswapdex.com/terms) page and **acknowledge that you understand the exclusively decentralized and non-custodial nature of the protocol**.
+
 ## Other Projects
 
 While BasicSwap DEX is the primary focus of this community, new ways to push the cryptocurrency ecosystem forward is constantly being explored by its contributors, notably with research of new, better protocols relating to cryptocurrency swaps, privacy, or security. 
 
 Follow us on [X (formerly Twitter)](https://x.com/basicswapdex) to stay up-to-date with all developments and news surrounding the project!
-
-## Terms of Use
-
-By using BasicSwap DEX, you agree to the terms of use outlined in our [Terms of Use](https://basicswapdex.com/terms) page and **acknowledge that you understand the exclusively decentralized and non-custodial nature of the protocol**.
 
 ## License
 
