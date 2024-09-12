@@ -58,7 +58,7 @@ If you are a developer, designer, or blockchain enthusiast and you want to join 
 
 ## Contact Information
 
-For support or inquiries, get in touch with the community in the contributor [Matrix chat](https://matrix.to/#/#basicswap:matrix.org).
+For support or inquiries, get in touch with the community in the contributors [Matrix chat](https://matrix.to/#/#basicswap:matrix.org).
 
 ## Other Projects
 
