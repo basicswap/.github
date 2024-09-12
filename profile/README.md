@@ -68,7 +68,7 @@ By using BasicSwap DEX, you agree to the terms of use outlined in our [Terms of 
 
 While BasicSwap DEX is the primary focus of this community, new ways to push the cryptocurrency ecosystem forward is constantly being explored by its contributors, notably with research of new, better protocols relating to cryptocurrency swaps, privacy, or security. 
 
-Follow us on [X (formerly Twitter)](https://x.com/basicswapdex) to stay up-to-date with all developments and news surrounding the project!
+Follow BasicSwap DEX on [X (formerly Twitter)](https://x.com/basicswapdex) to stay up-to-date with all developments and news surrounding the project!
 
 ## License
 
