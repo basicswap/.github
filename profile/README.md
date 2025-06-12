@@ -38,6 +38,7 @@ The BasicSwap DEX protocol currently supports the following digital assets:
 - Decred (DCR)
 - Wownero (WOW)
 - Particl (PART)
+- Namecoin (NMC)
 
 > Support for other assets, such as ETH and EVM-based tokens, is planned for the future.
 
