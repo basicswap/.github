@@ -39,6 +39,8 @@ The BasicSwap DEX protocol currently supports the following digital assets:
 - Wownero (WOW)
 - Particl (PART)
 - Namecoin (NMC)
+- Dogecoin (DOGE)
+- Bitcoin Cash (BCH)
 
 > Support for other assets, such as ETH and EVM-based tokens, is planned for the future.
 
